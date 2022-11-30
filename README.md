@@ -37,7 +37,7 @@
 $ git clone https://github.com/drisabelles/portfolio.git
 
 # Acesse a pasta do projeto
-$ cd porfolio
+$ cd portfolio
 
 # Instale as dependências
 $ npm install
