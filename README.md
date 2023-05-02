@@ -72,22 +72,25 @@ Para não ter que executar os códigos e ver o que foi desenvolvido, <a href="ht
 ## 🗂️ Organização das pastas <a name="folders"></a>
 
 ```bash
-📂 flutter-calculator
-|- 📁 android
-|- 📁 ios
-|- 📁 lib
-|--- 📄 buttons.dart
-|--- 📄 main.dart
-|- 📁 linux
-|- 📁 macos
-|- 📁 test
-|- 📁 web
-|- 📁 windnows
-|- 📄 .gitignore
-|- 📄 .metadata
-|- 📄 analysis_options.yaml
-|- 📄 pubspec.lock
-|- 📄 pubspec.yaml
+📂 portfolio
+|- 📁 public
+|--- 📄 IsabelleRibeiro-Resume.pdf
+|--- 📄 favicon.ico
+|--- 📄 index.html
+|--- 📄 logo192.png
+|--- 📄 logo512.png
+|--- 📄 manifest.json
+|--- 📄 robots.txt
+|- 📁 src
+|--- 📁 assets
+|--- 📁 components
+|--- 📄 App.js
+|--- 📄 index.css
+|--- 📄 index.js
+|- 📄 package-lock.json
+|- 📄 package.json
+|- 📄 postcss.config.js
+|- 📄 tailwind.config.js
 ```
 
 </br>
