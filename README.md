@@ -12,7 +12,7 @@
 
 </div>
 
-##  :black_nib: Sobre o projeto <a name="project"></a>
+##  ✒️ Sobre o projeto <a name="project"></a>
 Aplicação web responsiva desenvolvida para a aula de Experiência do Usuário na qual foi adicionado o hotjar para acompanhar o comportamento dos usuários que acessam o site sendo via computador ou celular.
 
 </br>
