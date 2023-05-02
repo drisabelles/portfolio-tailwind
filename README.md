@@ -1,15 +1,32 @@
 <div align="center">
 
-# Portfólio
+# 🙋🏻‍♀️ Portfólio 🙋🏻‍♀️
 
 </div>
 
-> Aplicação web responsiva desenvolvida para a aula de Experiência do Usuário na qual foi adicionado o hotjar para acompanhar o comportamento dos usuários que acessam o site sendo via computador ou celular.
+<div align="center">
+
+[Sobre o projeto](#project) | [Ferramentas](#tools) | [Usabilidades](#usabilities) | [Screenshots](#screenshots) | [Link](#link) | [Executando](#running) | [Autor](#autor)
 
 </br>
 
-## Usabilidades
+</div>
 
+##  :black_nib: Sobre o projeto <a name="project"></a>
+Aplicação web responsiva desenvolvida para a aula de Experiência do Usuário na qual foi adicionado o hotjar para acompanhar o comportamento dos usuários que acessam o site sendo via computador ou celular.
+
+</br>
+
+## ⚒️ Ferramentas <a name="tools"></a>
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-e4d2e4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=black)
+![React](https://img.shields.io/badge/react-e4d2e4.svg?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-e4d2e4.svg?style=for-the-badge&logo=tailwind-css&logoColor=black)
+![JavaScript](https://img.shields.io/badge/javascript-e4d2e4.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+</br>
+
+## 🪢 Usabilidades <a name="usabilities"></a>
 - [X] Barra de navegação
 - [X] Scroll pela página ao clicar nos botões da barra de navegação
 - [X] Botão de encaminhamento para LinkedIn
@@ -19,17 +36,15 @@
 - [X] Menu sanduíche no mobile
 - [X] Campo para contato e envio de mensagens
 
-</br>
+<br />
 
-## Ferramentas
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+## 🖼️ Screenshots <a name="screenshots"></a>
+
+Em breve.
 
 </br>
 
-## Executando
+## ⚙️ Executando <a name="running"></a>
 
 ```bash
 
@@ -46,15 +61,37 @@ $ npm install
 $ npm start
 
 ```
-
 </br>
 
-## Link
+## 🌐 Link <a name="link"></a>
 
 Para não ter que executar os códigos e ver o que foi desenvolvido, <a href="https://drisabelles-portfolio.netlify.app/">você pode clicar aqui para acessar o site</a>.
 
 </br>
 
-## Autor
+## 🗂️ Organização das pastas <a name="folders"></a>
+
+```bash
+📂 flutter-calculator
+|- 📁 android
+|- 📁 ios
+|- 📁 lib
+|--- 📄 buttons.dart
+|--- 📄 main.dart
+|- 📁 linux
+|- 📁 macos
+|- 📁 test
+|- 📁 web
+|- 📁 windnows
+|- 📄 .gitignore
+|- 📄 .metadata
+|- 📄 analysis_options.yaml
+|- 📄 pubspec.lock
+|- 📄 pubspec.yaml
+```
+
+</br>
+
+## 👩‍💻 Autor <a name="autor"></a>
 
 - LinkedIn - [Isabelle Ribeiro](https://www.linkedin.com/in/drisabelles/)
