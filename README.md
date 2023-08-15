@@ -65,7 +65,7 @@ $ npm start
 
 ## 🌐 Link <a name="link"></a>
 
-Para não ter que executar os códigos e ver o que foi desenvolvido, <a href="https://drisabelles-portfolio.netlify.app/">você pode clicar aqui para acessar o site</a>.
+Para não ter que executar os códigos e ver o que foi desenvolvido, <a href="https://drisabelles-portfolio-tailwind.netlify.app/">você pode clicar aqui para acessar o site</a>.
 
 </br>
 
